@@ -23,7 +23,7 @@ Note:
 ## Basic Script
 1. [Preparing the script file](01-basics/01_01-preparing-script-file.md)
 1. [Variables](01-basics/01_02-variables.md)
-1. 🚧 [Special Variables](work-in-progress.md)
+1. [Special Variables](01-basics/01_03-special-variables.md)
 1. [Read user input](01-basics/01_04-read-input.md)
 
 ## Flow Control
