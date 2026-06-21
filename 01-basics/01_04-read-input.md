@@ -1,6 +1,6 @@
 # Read User Input
 
-Sometime is useful get input during execution of a script. Bash can read inputs by a simply instruction: `read`
+Sometime is useful get input during execution of a script. Bash can read inputs by a simply command: `read`
 
 Basic syntax 
 ```bash
@@ -14,8 +14,8 @@ The command read have the following options:
 |-p| Showing a prompt message before read the user input|
 |-t| sets a timeout 
 |-s| silent mode, useful for prompting passwords|
-|-n| read only the specified number of characters
-|-r| get the data in raw mode and does not elaborate the backslash
+|-n| reads only the specified number of characters
+|-r| gets the data in raw mode and does not elaborate the backslash
 
 ## Examples
 
