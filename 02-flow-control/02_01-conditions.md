@@ -5,7 +5,7 @@ In Bash there are more than one way to set a condition:
 
 - **[[ condition ]]** Internal keyword of bash, improve version of test and this is considered the standard for modern Bash coding.
 
-- **(( condition ))** Only for arithmetic expressions, is more intuitive then [[ ]] and is used also like assignment operator for results of operations.
+- **(( condition ))** Only for arithmetic expressions, is more intuitive than [[ ]] and is used also like assignment operator for results of operations.
 
 
 ## Comparison Operators
@@ -45,7 +45,7 @@ A condition is an expression that can be defined through the **comparison operat
 ```bash
 (( x > y ))  # x is greater than y
 (( x >= y )) # x is greater or equal to y
-(( x < y )) # x is less then y
+(( x < y )) # x is less than y
 (( x <= y )) # x is less or equal to y
 (( x == y )) # x equals to y
 (( x != y )) # x NOT equal to
@@ -73,7 +73,7 @@ A condition is an expression that can be defined through the **comparison operat
 |-r| file exists and is readable
 |-w| file exists and is writable
 |-x| file exists and is executable
-|-s| file exists and its dimension is greater then zero
+|-s| file exists and its dimension is greater than zero
 
 ### Examples
 
@@ -85,5 +85,5 @@ A condition is an expression that can be defined through the **comparison operat
 [[ -r my_file ]] # file exists and is readable
 [[ -w my_file ]] # file exists and is writable
 [[ -x my_file ]] # file exists and is executable
-[[ -s my_file ]] # file exists and its dimension is greater then zero
+[[ -s my_file ]] # file exists and its dimension is greater than zero
 ```
