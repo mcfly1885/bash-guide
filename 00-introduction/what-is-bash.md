@@ -47,5 +47,3 @@ In the second case the result will be the phrases  "Hello World" and  "Hello aga
 The shell coding is oriented to execute external commands and programs which, outed in the right sequence, can automate a pipe of operations to achieve a final result.
 
 The strength of coding bash scripts stands into possibility to automate a complex operations or, more simply, tedious and repetitive operations that, otherwise, the user should do manually line by line.
-
-[Go to next step >>]()
