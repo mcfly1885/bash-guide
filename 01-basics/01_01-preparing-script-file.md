@@ -15,7 +15,7 @@ So, a Bash script file must always start with:
 #my code here...
 
 ```
-in which `/bin/bash` is the path of bash itself. This shebang surely works on bash but if portability is needed is preferred to use 
+in which `/bin/bash` is the path of bash itself. This shebang surely works, but if portability is needed is preferred to use 
 ```bash
 #!/usr/bin/env bash
 

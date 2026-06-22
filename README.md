@@ -8,6 +8,9 @@ This guide has been written with idea to provide a simple and clear concepts of 
 
 I hope this resource can be useful for someone, **enjoy**!
 
+Aviables Languages:
+- [Italian](README-it.md)
+
 Note: 
 - The topics with 🚧 icon are under construction.
 - This work is released under **[CC BY-NC 4.0 License](LICENSE.md)** 
