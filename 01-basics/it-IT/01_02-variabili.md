@@ -65,4 +65,4 @@ echo $myvar
 ```
 
 ## Conclusioni
-Dai un'occhiata allo [Script di esempio](/bash-guide/01-basics//scripts/variables-example.sh)sempio
+Dai un'occhiata allo [Script di esempio](/bash-guide/01-basics//scripts/variables-example.sh)
