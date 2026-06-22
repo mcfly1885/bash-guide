@@ -21,9 +21,9 @@ Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la mas
 1. Corso Intensivo comandi Bash
 
 ## Scripting Base
-1. Preparazione del file per lo script
-1. Variabili
-1. Variabili Speciali
+1. [Preparazione del file per lo script](/bash-guide/01-basics/it-IT/01_01-preparazione-del-file-script.md)
+1. [Variabili](/bash-guide/01-basics/it-IT/01_02-variabili.md)
+1. [Variabili Speciali](/bash-guide/01-basics/it-IT/01_03-variabili-speciali.md)
 1. Leggere l'input dell'Utente
 
 ## Controllo del Flusso
