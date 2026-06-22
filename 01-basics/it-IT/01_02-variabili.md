@@ -35,7 +35,7 @@ myvar="hello world"
 echo $myvar
 ```
 <details>
-<summary>Answer</summary>
+<summary>Risposta</summary>
 Il primo echo restituirà "5",il secondo restituirà "hello world" perché il valore della variabile $myvar è sato sovrascritto con la nuova assegnazione.  
 </details>
 
