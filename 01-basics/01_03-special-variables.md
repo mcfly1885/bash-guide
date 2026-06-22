@@ -86,7 +86,7 @@ the command will show a list of environment variable currently set on system.
 ```bash
 echo $HOME
 ```
-the comand above will print the content of env variable HOME which usually contains the current user home directory path. 
+the command above will print the content of env variable HOME which usually contains the current user home directory path. 
 
 Here a mini-list of some environment variables and their content
 
