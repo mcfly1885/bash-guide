@@ -106,7 +106,7 @@ fi
 ```
 <div align=center>
 
-[Torna all'Home Page](/README.md)
+[Torna all'Home Page](/README-it.md)
 
 </div>
 
