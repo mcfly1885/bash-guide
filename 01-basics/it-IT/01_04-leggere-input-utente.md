@@ -16,7 +16,7 @@ Il comando `read` ha le seguenti opzioni
 |-t| imposta un timeout
 |-s| modalità silenziosa, utile per digitare le password |
 |-n| legge soltanto il numero specificato di caratteri
-|-r| legge i dati in modalità grezza e non interpreta le backslash
+|-r| legge i dati senza elaborare le backslash come carattere di escape
 
 ## Esempi
 ```bash

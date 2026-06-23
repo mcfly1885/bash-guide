@@ -15,7 +15,7 @@ The command read have the following options:
 |-t| sets a timeout 
 |-s| silent mode, useful for prompting passwords|
 |-n| reads only the specified number of characters
-|-r| gets the data in raw mode and does not elaborate the backslash
+|-r| gets the data without elaborate the backslash like escape characters.
 
 ## Examples
 
