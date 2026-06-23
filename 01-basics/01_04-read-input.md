@@ -63,3 +63,9 @@ hello world
 ## Best Practices
 - **Never trust the user**: always validate the user's input
 - **Raw mode**: use `read` with flag `-r` to avoid bash elaborate backslashes.
+
+<div align=center>
+
+[Back to Home](/README.md)
+
+</div>

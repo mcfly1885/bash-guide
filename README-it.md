@@ -24,7 +24,7 @@ Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la mas
 1. [Preparazione del file per lo script](01-basics/it-IT/01_01-preparazione-del-file-script.md)
 1. [Variabili](01-basics/it-IT/01_02-variabili.md)
 1. [Variabili Speciali](01-basics/it-IT/01_03-variabili-speciali.md)
-1. Leggere l'input dell'Utente
+1. [Leggere l'input dell'Utente](01-basics/it-IT/01_04-leggere-input-utente.md)
 
 ## Controllo del Flusso
 1. Impostare una Condizione

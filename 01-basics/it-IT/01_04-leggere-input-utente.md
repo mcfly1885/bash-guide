@@ -66,3 +66,9 @@ hello world
 ## Buone Pratiche
 - **Mai fidarsi dell'utente**: validare sempre ciò che l'utente inserisce.
 - **Modalità Grezza**: utilizzare `read` con il flag `-r` per evitare che bash elabori le backslash.
+
+<div align=center>
+
+[Torna alla Home](/README-it.md)
+
+</div>
