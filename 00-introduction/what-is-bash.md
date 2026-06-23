@@ -6,7 +6,7 @@ The shell is a computer program that give access to the Operating System on whic
 
 The user gives the command to the shell that asks to Operating System to executes it. Then the shell returns the result to user.
 
-A shell can have tree kinds of interfaces:
+A shell can have three kinds of interfaces:
 
 - **Graphical** (GUI - Graphical User Interface) The shell provide windows, buttons, and other graphic elements that can be used for example by mouse.
 
