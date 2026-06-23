@@ -54,6 +54,6 @@ La forza nel programmare gli script bash risiede nella possibilità di automatiz
 
 <div align=center>
 
-[Torna alla Home](/bash-guide/README-it.md)
+[Torna alla Home](/README-it.md)
 
 </div>
