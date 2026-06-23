@@ -10,7 +10,7 @@ Una shell può avere di tre tipi di interfaccia:
 
 - **Grafica** (GUI - Graphical User Interface) La shell fornice finestre, pulsanti, bottoni ed altri elementi grafici che possono essere utilizzati con il mouse.
 
-- **Testuale** (TUI - Textual User Interface) La shell fornice menu, liste ma sono mostrati a video solo con elementi testuali.
+- **Testuale** (TUI - Textual User Interface) La shell fornice menu, liste ma sono mostrati a video solo con caratteri testuali.
 
 - **Riga di Comando** (CLI - Command Line Interface) La shell riceve i comandi dall'utente che li scrive riga per riga, o eseguendo uno script.
 
@@ -43,7 +43,7 @@ dove il contenuto di script.sh` è
 echo "Hello World"
 echo "Hello again"
 ```
-Il risultato sarà la frase "Hello World" e "Hello again" stampate sullo schermo ma l'utente ha dato alla shell un solo comand: eseguire lo script che contiene i comandi.
+Il risultato sarà la frase "Hello World" e "Hello again" stampate sullo schermo ma l'utente ha dato alla shell un solo comando: eseguire lo script che contiene i comandi.
 
 
 ## Perché programmare script in Bash?
