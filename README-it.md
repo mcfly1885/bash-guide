@@ -17,7 +17,7 @@ Note:
 Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la massima attenzione per garantire la correttezza dei contenuti, non viene fornita alcuna garanzia circa la loro accuratezza o idoneità per uno scopo specifico. L'autore non è responsabile per eventuali danni derivanti dall'uso delle informazioni o del codice presentato.
 
 ## Introduzione
-1. Cos'è Bash?
+1. [Cos'è Bash?](00-introduction/it-IT/cosè-bash.md)
 1. Corso Intensivo comandi Bash
 
 ## Scripting Base
