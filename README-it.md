@@ -27,7 +27,7 @@ Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la mas
 1. [Leggere l'input dell'Utente](01-basics/it-IT/01_04-leggere-input-utente.md)
 
 ## Controllo del Flusso
-1. Impostare una Condizione
+1. [Impostare una Condizione](02-flow-control/it-IT/02_01-condizioni.md)
 1. [IF](02-flow-control/it-IT/02_02-costrutto-if.md)
 1. CASE
 1. Le Iterazioni
