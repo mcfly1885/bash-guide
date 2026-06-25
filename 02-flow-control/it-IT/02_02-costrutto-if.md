@@ -102,7 +102,8 @@ if [[ ! 7 -lt 6 ]]; then
 ...
 fi
 
-#guardando all'esempio in alto basta dare la risposta alla domanda: "È vero che 7 NON è maggiore di 6?" in questo caso l'espressione restituisce vero.
+#guardando all'esempio in alto basta dare la risposta alla domanda: 
+#"È vero che 7 NON è maggiore di 6?" in questo caso l'espressione restituisce vero.
 ```
 <div align=center>
 
