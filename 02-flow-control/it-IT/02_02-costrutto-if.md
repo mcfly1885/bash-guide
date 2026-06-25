@@ -105,6 +105,76 @@ fi
 #guardando all'esempio in alto basta dare la risposta alla domanda: 
 #"È vero che 7 NON è maggiore di 6?" in questo caso l'espressione restituisce vero.
 ```
+## If multipli
+ è possibile definire **blocchi if multipli** in due modi:
+
+## L'instrizione `elif`
+
+Questo metodo equivale ad impostare una seconda condizione se la prima è falsa.
+
+```bash
+if [[ condizione1 ]]; then
+    #qui il mio codice
+elif [[ condizione2 ]];then
+    #qui il mio codice
+else
+    #qui il mio codice
+if
+```
+Il codice all'interno del blocco `elif` verrà eseguito solamente se *condizione1* è falsa e *conditione2* è vera.
+
+Se entrambe le condizioni sono false verrà eseguito il codice all'intern del blocco `else`. L'istruzione `else` non è obbligatoria.
+
+## Esempio
+```bash
+myfile="percorso/al/mio/file"
+
+if [[ ! -e $myfile ]]; then
+
+    echo "il percorso non esiste"
+    # se la condizione è vera il blocco if termina qui
+
+elif [[ -f $myfile ]]; then
+
+    echo "qualcosa esiste al percorso specificato ed è un file"
+    #se la prima condizione è falsa il blocco if termina qui
+
+else
+
+    echo "qualcosa esiste al percorso specificato ma non è un file"
+    #se tutte le condizioni sono false il blocco if termina qui
+
+fi
+```
+### Attraverso blocchi if annidati
+Il codice all'interno dei blocchi if viene eseguito solamente se entrambe le condizioni sono vere
+```bash
+if [[ condizione1 ]]; then
+	if[[ condizione2 ]]; then
+        # qui il mio codice
+	fi
+fi 
+```
+
+```bash
+name="john"
+age="21"
+
+if [[ $age -ge 21 ]]; then
+	if[[ $name="john" ]]; then
+        echo "Hello John"
+        #questo codice verrà eseguito solamente se entrambe le condizioni
+        #sono vere
+	fi
+fi 
+```
+## Buone Pratiche
+- il blocco `if-elif` è una buona pratica se le condizioni sono meno di 3 o 4. Evitare di aggiungere troppi blocchi `elif`
+può aiutare a mantenere il codice ordinato e comprensibile.
+- Se le condizioni sono maggiori di 3 o 4, valutare l'utilizzo del blocco [case](/bash-guide/work-in-progress.md)
+
+<hr>
+
 <div align=center>
 
 [Torna all'Home Page](/README-it.md)
