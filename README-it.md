@@ -29,5 +29,5 @@ Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la mas
 ## Controllo del Flusso
 1. [Impostare una Condizione](02-flow-control/it-IT/02_01-condizioni.md)
 1. [IF](02-flow-control/it-IT/02_02-costrutto-if.md)
-1. CASE
+1. [CASE](02-flow-control/it-IT/02_03-case-it.md)
 1. Le Iterazioni
