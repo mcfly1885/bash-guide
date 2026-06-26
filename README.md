@@ -32,5 +32,5 @@ Note:
 ## Flow Control
 1. [Conditional Operators](02-flow-control/02_01-conditions.md)
 1. [If](02-flow-control/02_02-if.md) 
-1. 🚧 [case](work-in-progress.md) 
+1. [case](02-flow-control/02_03-case.md) 
 1. 🚧 [Loops](work-in-progress.md) 
