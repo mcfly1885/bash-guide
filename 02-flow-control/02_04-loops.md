@@ -76,7 +76,7 @@ while true; do
     esac
 done
 ```
-The while loops continue until the user enter y,Y,n or N.
+The while loops continues until the user enter y,Y,n or N.
 
 If user prompts y, the patter will match and the loop will stop and go on with the rest of script.
 
