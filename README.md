@@ -17,7 +17,7 @@ Note:
 - The [example scripts](scripts) are released under **[MIT License](scripts/LICENSE.md).**
 
 
- **Disclamer**: The information is provided for educational purposes. Although care has been taken to ensure the correctness of the contents, no guarantee is given as to their accuracy or suitability for a specific purpose. The author is not responsible for any damages resulting from the use of the information or code presented.
+ **Disclaimer**: The information is provided for educational purposes. Although care has been taken to ensure the correctness of the contents, no guarantee is given as to their accuracy or suitability for a specific purpose. The author is not responsible for any damages resulting from the use of the information or code presented.
 
 ## Introduction
 1. [What is Bash?](00-introduction/what-is-bash.md)
