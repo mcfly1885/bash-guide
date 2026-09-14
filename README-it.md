@@ -25,6 +25,7 @@ Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la mas
 1. [Variabili](01-basics/it-IT/01_02-variabili.md)
 1. [Variabili Speciali](01-basics/it-IT/01_03-variabili-speciali.md)
 1. [Leggere l'input dell'Utente](01-basics/it-IT/01_04-leggere-input-utente.md)
+1. [Funzioni](03-functions/03-functions.it.md)
 
 ## Controllo del Flusso
 1. [Impostare una Condizione](02-flow-control/it-IT/02_01-condizioni.md)
