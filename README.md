@@ -23,14 +23,16 @@ Note:
 1. [What is Bash?](00-introduction/what-is-bash.md)
 1. 🚧 [Basic Commands Crash Course](00-introduction/crash-course.md) 
 
-## Basic Script
+## Basic Scripting
 1. [Preparing the script file](01-basics/01_01-preparing-script-file.md)
 1. [Variables](01-basics/01_02-variables.md)
 1. [Special Variables](01-basics/01_03-special-variables.md)
 1. [Read user input](01-basics/01_04-read-input.md)
+1. [Functions](03-functions/03-functions.md)
 
 ## Flow Control
 1. [Conditional Operators](02-flow-control/02_01-conditions.md)
 1. [If](02-flow-control/02_02-if.md) 
 1. [case](02-flow-control/02_03-case.md) 
 1. [Loops](02-flow-control/02_04-loops.md) 
+
