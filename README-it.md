@@ -18,17 +18,19 @@ Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la mas
 
 ## Introduzione
 1. [Cos'è Bash?](00-introduction/it-IT/cosè-bash.md)
-1. Corso Intensivo comandi Bash
+1. Corso Intensivo comandi Bash 🚧
 
 ## Scripting Base
 1. [Preparazione del file per lo script](01-basics/it-IT/01_01-preparazione-del-file-script.md)
 1. [Variabili](01-basics/it-IT/01_02-variabili.md)
 1. [Variabili Speciali](01-basics/it-IT/01_03-variabili-speciali.md)
-1. [Leggere l'input dell'Utente](01-basics/it-IT/01_04-leggere-input-utente.md)
-1. [Funzioni](03-functions/03-functions.it.md)
+1. [Funzioni](01-basics/it-IT/01_04-functions.it.md)
 
 ## Controllo del Flusso
 1. [Impostare una Condizione](02-flow-control/it-IT/02_01-condizioni.md)
 1. [IF](02-flow-control/it-IT/02_02-costrutto-if.md)
 1. [CASE](02-flow-control/it-IT/02_03-case-it.md)
 1. [Cicli](02-flow-control/it-IT/02_04-loops-it.md)
+
+## Gestione Input e Output
+1. [Leggere l'input dell'Utente](03-input-output/it-IT/03_01-leggere-input-utente.md)
