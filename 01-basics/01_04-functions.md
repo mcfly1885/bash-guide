@@ -77,7 +77,8 @@ sayHello #output: "hello local" and  "hello global"
 #let's try
 echo "$myLocalVar" 
 
-#output: void or error because the variable is local in function sayHello and is not accessible elsewhere except it's scope.
+#output: void or error because the variable is local in function sayHello 
+#and is not accessible elsewhere except it's scope.
 
 ```
 

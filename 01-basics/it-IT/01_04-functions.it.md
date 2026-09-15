@@ -77,7 +77,8 @@ sayHello #output: "hello local" e  "hello global"
 #proviamo l'istruzione
 echo "$myLocalVar" 
 
-#output: vuoto o errore poiché la variabile è locale nella funzione sayHello e non è accessibile altrove.
+#output: vuoto o errore poiché la variabile è locale
+# nell'ambito della funzione sayHello e non è accessibile altrove.
 
 ```
 
