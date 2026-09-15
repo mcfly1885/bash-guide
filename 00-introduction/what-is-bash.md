@@ -53,6 +53,6 @@ The strength of coding bash scripts stands into possibility to automate a comple
 
 <div align=center>
 
-[Back to Home](/bash-guide/README.md)
+[Back to Home](/README.md)
 
 </div>
