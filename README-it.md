@@ -34,3 +34,4 @@ Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la mas
 
 ## Gestione Input e Output
 1. [Leggere l'input dell'Utente](03-input-output/it-IT/03_01-leggere-input-utente.md)
+1. [Reindirizzamento I/O](03-input-output/it-IT/03_02-reindirizzamenti.it.md)
