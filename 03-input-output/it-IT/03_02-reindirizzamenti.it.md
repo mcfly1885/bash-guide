@@ -77,7 +77,7 @@ ls mydir >> myfile.txt
 # aggiunge l'output al file myfile.txt anche se vuoto
 # se myfile.txt non esiste verrà creato
 # fai attenzione: bash non chiede conferma
-
+```
 ### Un altro esempio
 2. Creare un file di testo e scrivere al suo interno la stringa "hello world"
 ```bash
