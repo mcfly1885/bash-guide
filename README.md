@@ -37,5 +37,6 @@ Note:
 
 ## Input and Output Management
 1. [Read user input](03-input-output/03_01-read-input.md)
-1. [Redirections](03-input-output/03_02-redirects.md)
+1. [Redirects](03-input-output/03_02-redirects.md)
+1. [Pipe and Chaining](03-input-output/03_03-pipe-and-chaining.md)
 
