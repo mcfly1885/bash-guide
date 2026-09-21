@@ -1,7 +1,7 @@
 # Pipe and Chaining
 
 
-## Table of Content
+## Table of Contents
 1. [Pipe](#pipe)
 1. [Chaining Commands](#chaining-commands)
 1. [Mixing Pipe and Command Chaining](#mixing-pipes-and-chaining)
@@ -40,18 +40,18 @@ Count the elements in a directory
 ```bash
 ls mydir | wc -l
 # ls lists the content of mydir directory
-# wc (word count) counts the line of the ls output
+# wc (word count) counts the lines of the ls output
 ```
 add an extra pipe to count only the txt file
 ```bash
 ls mydir | grep ".txt" | wc -l
 # ls lists the content of  of mydir directory
 # grep filters the result of ls where the string ".txt" matches
-# wc (word count) counts the line of the grep output
+# wc (word count) counts the lines of the grep output
 ```
 
 ## Chaining Commands
-In Bash is possible chaining a sequence of command in three different methods.
+In Bash is possible chaining a sequence of commands in three different methods.
 
 ### First Method
 
@@ -62,19 +62,19 @@ It can be read like: *do the first task then the second one*
 ### Example
 ```bash
 ls nowhere; echo "done"
-#ls show error (assuming that nowhere directory doesn't exist)
+#ls shows error message (assuming that nowhere directory doesn't exist)
 #echo will be executed anyway
 ```
 ### Second Method
 
 - ``command1 && command2``
-command 2 executes only if command 1 success
+if command1 success, command2 will be execute
 
-It can be read like: *do the first task, but do the second only if the first one has success*
+It can be read like: *do the first task, but do the second **only if** the first one has success*
 
 ```bash
 ls nowhere && echo "done"
-#ls show error (assuming that nowhere directory doesn't exist)
+#ls shows error message (assuming that nowhere directory doesn't exist)
 #echo will not be executed
 
 #otherwise
@@ -87,9 +87,9 @@ ls mydir && echo "done"
 ### Third Method
 
 - ``command1 || command2``
-command 2 executes if command1 fails
+if command1 fails command2 will be executed
 
-It can be read like: *do the first task, but do the second only if the first one has failed*
+It can be read like: *do the first task, but do the second **only if** the first one has failed*
 
 ```bash
 ls nowhere || echo "done"
@@ -122,8 +122,8 @@ cat fruit.txt | grep "apple" && echo "done"
 
 #otherwise
 
-cat fruit.txt | grep "apple" || echo "done"
-#the string "done" will not be printed on stdout because grep was execute with success
+cat fruit.txt | grep "mango" || echo "done"
+#the string "done" will be printed on stdout because grep failed
 ```
 <div align=center>
 
