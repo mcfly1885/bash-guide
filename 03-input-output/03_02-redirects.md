@@ -25,7 +25,7 @@ There are three type of streams:
 ## Redirect the Input
 The standard input is the user keyboard. It's possible to redirect it with ``<`` keyword.
 
-In the example below the input is redirect to a file and the result is the line count of file myfile.txt
+In the example below the input is redirected to a file and the result is the line count of file myfile.txt
 
 ### Example
 
@@ -96,7 +96,7 @@ echo "hello world" >> myfile.txt
 ```
 
 ## Redirect the Standard Error
-When an error occur during the execution of a command is possible to redirect the error.
+When an error occurs during the execution of a command is possible to redirect the error.
 ```bash
 ls nowhere 
 # let's say that nowhere directory doesn't exist
@@ -138,7 +138,7 @@ sort myfile.txt > sortedfile.txt
 ```
 
 ## Silence the Output
-Sometimes is necessary throw away the output of a command like when create a quiet mode for a script is needed. 
+Sometimes is necessary throw away the output of a command like when creating a quiet mode for a script is needed. 
 
 It's possible to redirect the output in a special file: **/dev/null**
 
