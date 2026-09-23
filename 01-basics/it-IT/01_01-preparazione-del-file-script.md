@@ -28,14 +28,9 @@ perché lo script può automatiamente trovare dove bash si trova nel sistema ope
 ## Permessi
 Una volta che lo script è stato scritto, per eseguirlo è necessario dargli i permessi di esecuzione.
 ```bash
-chmod +x myscript.sh
+chmod u+x myscript.sh
 ```
-In questo modo, lo script potrà essere eseguito da tutti gli utenti del sistema operativo.
-
-Per rendere lo script eseguibile solo dal proprietario basta eseguire:
-```bash
-chmod 700 myscript.sh
-```
+Leggi di più su permessi [all'argomento dedicato](/00-introduction/00_03-permissions.md).
 
 ## Eseguire uno script
 Il metodo più comune per eseguire uno scritpt è
@@ -47,3 +42,10 @@ Il metodo più comune per eseguire uno scritpt è
 ./perocso/al/mio/script.sh
 ```
 Lo script verrà eseguito solamente se gli sono stati impostati i permessi di esecuzione.
+
+---
+<div align=center>
+
+[Torna all' Home Page](/README.md)
+
+</div>
