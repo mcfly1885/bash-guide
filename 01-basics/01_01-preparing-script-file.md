@@ -27,14 +27,9 @@ because the script can automatically find where bash is located on system.
 ## Permissions
 Once the script has been written, to execute it is necessary give to it the execution rights.
 ```bash
-chmod +x myscript.sh
+chmod u+x myscript.sh
 ```
-In this way, the script can ben executed by all user in the system.
-
-To make a script is executable only by the owner just run
-```bash
-chmod 700 myscript.sh
-```
+Read more about permission [on dedicated topic](/bash-guide/00-introduction/00_03-permissions.md)
 
 ## Executing a Script
 The most common way to execute a script is:
