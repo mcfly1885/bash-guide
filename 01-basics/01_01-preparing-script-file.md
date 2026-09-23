@@ -29,7 +29,7 @@ Once the script has been written, to execute it is necessary give to it the exec
 ```bash
 chmod u+x myscript.sh
 ```
-Read more about permission [on dedicated topic](/bash-guide/00-introduction/00_03-permissions.md)
+Read more about permission [on dedicated topic](/00-introduction/00_03-permissions.md)
 
 ## Executing a Script
 The most common way to execute a script is:
