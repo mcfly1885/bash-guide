@@ -19,6 +19,7 @@ Le informazioni sono fornite per scopi didattici. Sebbene sia stata posta la mas
 ## Introduzione
 1. [Cos'è Bash?](00-introduction/it-IT/cosè-bash.md)
 1. Corso Intensivo comandi Bash 🚧
+1. [Permessi File e Directory](00-introduction/it-IT/00_03-permessi.md)
 
 ## Scripting Base
 1. [Preparazione del file per lo script](01-basics/it-IT/01_01-preparazione-del-file-script.md)
