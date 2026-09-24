@@ -63,7 +63,7 @@ To adding and remove permission:
 ### Example
 Give the permission to execution to a bash file with command ``chmod`` only to its owner.
 ```bash
-#give to owner if file the execution permission
+#grant only to file owner the execution permission
 chmod u+x mybashfile.sh
 
 #or removing it
@@ -76,7 +76,7 @@ chmod +x mybashfile.sh
 ```
 
 ## Numeric Mode
-The numeric mode uses **octal based digits** (in which the digit goes from 0 to 7) instead the letters.
+The numeric mode uses **octal based digits** (in which the digits go from 0 to 7) instead the letters.
 
 Each permission value (read, write and execute) are represent by a binary digit: set them to 1 to enable, 0 to disable. 
 
