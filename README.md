@@ -21,7 +21,7 @@ Note:
 
 ## Introduction
 1. [What is Bash?](00-introduction/what-is-bash.md)
-1. 🚧 [Basic Commands Crash Course](00-introduction/crash-course.md) 
+1. [File and Directory Management](00-introduction/00_02-files-and-directories.md) 
 1. [File and Directory Permissions](00-introduction/00_03-permissions.md)
 
 ## Basic Scripting
