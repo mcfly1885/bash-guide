@@ -8,7 +8,7 @@
 1. [Rimozione](#rimuovi)
 
 ## Introduzione
-Bash è in grado di gestire le operazioni relative alla gestione di file e directory.
+Bash è in grado di eseguire le operazioni relative alla gestione di file e directory.
 
 ### Attenzione ⚠️
 Attenzione: l'esecuzione di operazioni di gestione di file e directory può causare risultati indesiderati. Se si desidera provare i comandi, utilizzare file vuoti o directory creati appositamente per questo scopo.

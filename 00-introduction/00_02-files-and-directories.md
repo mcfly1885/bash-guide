@@ -8,7 +8,7 @@
 1. [Remove](#remove)
 
 ## Introduction
-Bash can managed the operations for managing files and directories.
+Bash can manage the operations on files and directories.
 
 ### Warning ⚠️
 Be careful: perform files and directory management operations can cause unwanted results. If you want to try the commands, use empty files or directories created specifically for this purpose.
@@ -67,13 +67,13 @@ mkdir dirNumber{1..10}
 
 To rename a file or a directory in bash is used ``mv`` (move) command.
 
-The ``mv`` command primary function is to **move** files and directories to another destination in filesystem, but if the destination and target position are the same, the file/directory will be renamed.
+The ``mv`` command primary function is to **move** files and directories to another destination in filesystem, but if the origin and destination position are the same, the file/directory will be renamed.
 
 The syntax is
 ```bash
-mv target destination
+mv origin destination
 ```
-in which ``target`` is the file or directory to move, ``destination`` is the new position where move the target to.
+in which ``origin`` is the file or directory to move, ``destination`` is the new position where move the target to.
 
 ### Warning ⚠️
 The ``mv`` command by default **doesn't ask for confirmation**! If in the destination directory is present a file/directory with same name, it will be overwrite!
@@ -104,6 +104,10 @@ mv dir1 dir2/newdir
 ## Copy
 To copy a file or a directory use ``cp`` command. Like ``mv`` command ``cp`` accepts as argument the target file/directory and the destination where it will be copied.
 
+The syntax is
+```bash
+cp origin destination
+```
 ### Warning ⚠️
 The ``cp`` command by default **doesn't ask for confirmation**! If in the destination directory is present a file/directory with same name, it will be overwrite!
 
