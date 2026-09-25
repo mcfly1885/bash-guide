@@ -2,8 +2,8 @@
 
 ### Table of Contents
 1. [Introduction](#introduction)
-1. [Create](#create-files-and-directories)
-1. [Rename](#rename-files-and-directories)
+1. [Create](#create)
+1. [Rename](#rename)
 1. [Copy](#copy)
 1. [Remove](#remove)
 
