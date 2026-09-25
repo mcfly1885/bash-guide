@@ -1,4 +1,4 @@
-# Files and Directories Manipulation
+# Files and Directories Management
 
 ### Table of Contents
 1. [Introduction](#introduction)
