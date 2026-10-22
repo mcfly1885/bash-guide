@@ -83,16 +83,16 @@ A condition is an expression that can be defined through the **comparison operat
 |-z|length equal to zero
 |-n| length not equal to zero
 ```bash
-[[ string1 = string2]]
+[[ string1 = string2 ]]
 [[ "home" = "home" ]]
 
-[[ string1 != string2]]
+[[ string1 != string2 ]]
 [[ "dog" != "cat" ]]
 
-[[ string1 < string2]]
-[[ "mountain" < "sea"]] 
+[[ string1 < string2 ]]
+[[ "mountain" < "sea" ]] 
 
-[[ string1 > string2]]
+[[ string1 > string2 ]]
 [[ "lake" > "city" ]]
 
 string1=""
